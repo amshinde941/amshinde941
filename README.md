@@ -8,47 +8,29 @@
 
 <br />
 
-Hi, I'm Amit, a Full Stack Developer 🚀, Cloud Enthusiast from India.I love programming & creating webapps, besides this i enjoy cooking, eating & traveling.
+Hi, I'm Amit, a Full Stack Developer 🚀, Cloud Enthusiast🌩️ from India.I love programming & creating webapps, besides this i enjoy cooking, eating & traveling.
 
  <img align="right" alt="GIF" src="webdev.png"  />
   
-**Some highlights about me:**
+**I have done some projects, you can see those below ⬇️**
 
-- 👨🏽‍💻 Currently working on [Execute It](https://executeit.ml), a Realtime Code Collaboration and Code Execution Platform;
-- 🚀Backend Intern @ [FamPay](https://www.fampay.in)
-- ✨ Former Summer Fellow @ [FOSSEE - IIT Bombay](https://fossee.in/)
-- 🌱 Learning Cloud Computing and DevOps; 
-- 💬 I'm open for tech talks and Internship Opportunities;
-- 📝[Resume](https://link.pratikdaigavane.me/resume)
+**Technologies** 
 
-**Technologies**  
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-
-![Django](https://img.shields.io/badge/-Django-darkgreen?style=flat-square&logo=django)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Ant D](https://img.shields.io/badge/-Ant%20Design-0170FE?style=flat-square&logo=ant-design)
-![Material UI](https://img.shields.io/badge/-Material%20UI-black?style=flat-square&logo=material-ui)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=Kubernetes)
-![Nginx](https://img.shields.io/badge/-Nginx-black?style=flat-square&logo=nginx)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Firebase](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=firebase)
 
 
 
-📈 My GitHub Stats
+**My GitHub Stats**
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pratikdaigavane&count_private=true&show_icons=true&theme=gotham" alt="pratikdaigavane" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=amshinde941&count_private=true&show_icons=true&theme=gotham" alt="amitshinde" />
