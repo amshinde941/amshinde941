@@ -8,7 +8,7 @@
 
 <br />
 
-<img align="right" alt="GIF" src="webdev.png" height="500px" />
+<img align="right" alt="GIF" src="webdev.png" height="350px" />
  
 Hi, I'm Amit, a Full Stack Developer 🚀, Cloud Enthusiast🌩️ from India.I love programming & creating webapps, besides this i enjoy cooking, eating & traveling.
   
