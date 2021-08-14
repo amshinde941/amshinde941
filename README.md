@@ -26,7 +26,7 @@ Hi, I'm Amit, a Full Stack Developer 🚀, Cloud Enthusiast🌩️ from India.I 
 
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Firebase](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=firebase)
+![Firebase](https://img.shields.io/badge/-Firebase-563D7C?style=flat-square&logo=firebase)
 
 
 
