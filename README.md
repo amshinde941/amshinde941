@@ -8,11 +8,10 @@
 
 <br />
 
-<img align="right" alt="GIF" src="webdev.png" height="250px" />
+<img align="right" alt="GIF" src="webdev.png" height="500px" />
  
 Hi, I'm Amit, a Full Stack Developer 🚀, Cloud Enthusiast🌩️ from India.I love programming & creating webapps, besides this i enjoy cooking, eating & traveling.
   
-**I have done some projects, you can see those below ⬇️**
 
 **Technologies** 
 
@@ -31,6 +30,12 @@ Hi, I'm Amit, a Full Stack Developer 🚀, Cloud Enthusiast🌩️ from India.I 
 
 
 
+
+
 **My GitHub Stats**
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=amshinde941&count_private=true&show_icons=true&theme=gotham" alt="amitshinde" />
+<img src="https://github-readme-stats.vercel.app/api?username=amshinde941&count_private=true&show_icons=true&theme=gotham" alt="amitshinde" />
+
+
+**I have done some projects, you can see those below ⬇️**
+
