@@ -8,9 +8,9 @@
 
 <br />
 
+<img align="right" alt="GIF" src="webdev.png" height="250px" />
+ 
 Hi, I'm Amit, a Full Stack Developer 🚀, Cloud Enthusiast🌩️ from India.I love programming & creating webapps, besides this i enjoy cooking, eating & traveling.
-
- <img align="right" alt="GIF" src="webdev.png"  />
   
 **I have done some projects, you can see those below ⬇️**
 
