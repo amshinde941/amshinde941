@@ -10,7 +10,7 @@
 
 Hi, I'm Amit, a Full Stack Developer 🚀, Cloud Enthusiast from India.I love programming & creating webapps, besides this i enjoy cooking, eating & traveling.
 
- <img align="right" alt="GIF" src="webdev.png" width="500" height="320" />
+ <img align="right" alt="GIF" src="webdev.png"  />
   
 **Some highlights about me:**
 
