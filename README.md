@@ -23,7 +23,7 @@ Hi, I'm Amit, a Full Stack Developer 🚀, Cloud Enthusiast🌩️ from India.I 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Gatsby](https://img.shields.io/badge/-Gatsby-black?style=flat-square&logo=Gatsby.js)
+![Gatsby](https://img.shields.io/badge/-gatsbyjs-black?style=flat-square&logo=gatsbyjs)
 ![Graphql](https://img.shields.io/badge/-Graphql-black?style=flat-square&logo=Graphql)
 
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
