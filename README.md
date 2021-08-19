@@ -17,12 +17,14 @@ Hi, I'm Amit, a Full Stack Developer 🚀, Cloud Enthusiast🌩️ from India.I 
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Gatsby](https://img.shields.io/badge/-Gatsby-black?style=flat-square&logo=Gatsby.js)
+![Graphql](https://img.shields.io/badge/-Graphql-black?style=flat-square&logo=Graphql)
 
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
